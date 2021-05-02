@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 html {
-  font-size: 62,5%;
+  font-size: 62.5%;
 }
 body {
   color: #333;
@@ -114,11 +114,10 @@ a:link, a:visited, a:hover, a:active {
   margin-bottom: 15px;
   color: #fff;
   font-weight: normal;
-  font-size: 1.2rem;
+  font-size: 2.0rem;
 }
 .hot-topic .desc {
   color: #ddc;
-  font-size: small;
 }
 .hot-topic .date {
   position: absolute;
@@ -131,6 +130,6 @@ a:link, a:visited, a:hover, a:active {
   text-align: center;
   letter-spacing: 1px;
   font-weight: bold;
-  font-size: 0.8rem;
+  font-size: 1.1rem;
   line-height: 1;
 }
