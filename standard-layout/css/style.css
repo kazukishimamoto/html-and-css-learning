@@ -207,6 +207,12 @@ a:link, a:visited, a:hover, a:active {
 .article-box:nth-of-type(even) {
   float: right;
 }
+.article-box .title {
+  margin-top: 30px;
+  color: #555;
+  font-size: 1.4rem;
+  line-height: 1.6;
+}
 .article-box .desc {
   margin-top: 5px;
   color: #333;
