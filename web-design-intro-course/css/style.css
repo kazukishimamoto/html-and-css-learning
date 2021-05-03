@@ -193,3 +193,8 @@ aside p {
 .sub-menu a:hover {
   color: #0bd;
 }
+/* モバイル版
+-------------------------- */
+@media (max-width: 600px) {
+
+}
